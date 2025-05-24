@@ -5,7 +5,7 @@ import math
 from decimal import Decimal
 
 ##############################################################
-##Author:Zhai Jihang                                     #####
+##Author:Iawnix                                          #####
 ##Date:2022-01-08                                        #####
 ##Institution:HENU                                       #####
 ##Description: python GetSmdxyz.py x y z yourfile        #####
