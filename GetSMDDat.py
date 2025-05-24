@@ -1,4 +1,4 @@
-#!/home/iaw/soft/conda/2024.06.1/envs/pytorch3.9/bin/python
+#!/home/hang/.conda/envs/py37/bin/python
 import subprocess
 import sys
 import math
